@@ -38,7 +38,7 @@ image gallary plus/
    (or use VS Code Live Server).
 
 ## Author
-Module 9 Assessment 1 submission.
+Tinos  Module 9 Assessment 1 submission.
 
 ## License
 This project is for educational use.
